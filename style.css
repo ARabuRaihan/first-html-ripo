@@ -1,0 +1,10 @@
+div{
+  height: 150px;
+  width: 200px;
+  background: #aea7a7;
+  margin: 10px red solid;
+  padding: 10px 10px 10px 40px blue;
+  .batton{
+    background-color: red;
+  }
+}
